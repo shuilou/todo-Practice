@@ -27,4 +27,4 @@
 
 
 #### 项目预览
-- 预览网址：http://eeshow.net/dist/index.html空间很小，访问速度比较慢
+- 预览网址：http://eeshow.net/dist/index.html  很小，访问速度比较慢
