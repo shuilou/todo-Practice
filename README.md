@@ -1,10 +1,8 @@
-<<<<<<< HEAD
-### 慕课网 - Vue+Webpack打造todo应用 - 课程源码（程序可正常运行）
-> 在线学习的动力来自于无私的分享，如果对您有帮助，请给我个Star。
-#### 前言
-此源码基于 [慕课网](https://www.imooc.com/) Jokcy老师的 [Vue+Webpack打造todo应用](https://www.imooc.com/learn/935) 视频教程编写，所用到的模块包均为当前最新版本，源码编写完成日期：2018年3月9日。  
 
-注意：因为此源码的Webpack版本为4.0.0以上，导致有些API弃用，所以跟视频中的代码有一点点不同，在代码中具体位置有详细注明和解释，适合大家参考，共同学习。
+练习慕课网 - Vue+Webpack打造todo应用 
+> 学习完这个小例子后跟着视频练习了一遍
+#### 前言
+此源码基于 [慕课网](https://www.imooc.com/) Jokcy老师的 [Vue+Webpack打造todo应用](https://www.imooc.com/learn/935)   
 
 #### 使用须知
 - **使用&参考此源码，需要您对HTML、CSS、JavaScript、Node.js、NPM等有一定的了解和实践。**  
@@ -29,8 +27,4 @@
 
 
 #### 项目预览
-- 预览网址：https://itpoet.cn/vue-webpack-dist-todoapp/
-=======
-# todo-Practice
-练习慕课网的todo教程
->>>>>>> 0ad5c51df7e5c31b96fa084f19d2764d41a5d4e8
+- 预览网址：http://eeshow.net/dist/index.html===== 空间很小，访问速度比较慢
