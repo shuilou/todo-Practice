@@ -9,7 +9,7 @@
 
 - Node.js、NPM均已正确安装好。检测Node.js是否安装成功，命令窗口[cmd]`$ node -v`。若出现具体的版本号，表示安装成功。  
 
-![Node.js是否安装成功检测](http://ojzaff7fe.bkt.clouddn.com/nodejs%E7%89%88%E6%9C%AC%E6%A3%80%E6%B5%8B.jpg)
+![Node.js是否安装成功检测]
 
 #### 使用步骤
 
